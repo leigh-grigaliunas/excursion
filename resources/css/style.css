@@ -10,20 +10,28 @@ body {
     text-align: center;
   }
   
-  
   h1 {
-    font: 28pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    line-height: 20pt;
+    font-size: 50px;
+    font-weight: normal;
     color: white;
   }
 
   h2 {
-    font: 18pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-    line-height: 30pt;
+    font-size: 42px;
+    font-weight: 300;   
     color: white;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
   
+  video {
+      padding-top: 20pt;
+      padding-bottom: 15pt;
+  }
   
   p {
   }
@@ -40,19 +48,14 @@ body {
     text-decoration: underline;
   }
   
-  a:link, a:visited {
-    color: #8094d6;
-  }
-  
-  
-  a:hover, a:active {
-    color: #FF9933;
+  a {
+    color: aquamarine;
   }
   
   footer {
     font-size: 14pt;
-    font-style: italic;
     line-height: 16pt;
     text-align: center;
-    padding-top: 30pt;
+    padding-top: 12pt;
+    padding-bottom: 12pt;
   }
