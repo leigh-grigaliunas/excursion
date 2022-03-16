@@ -1,0 +1,58 @@
+body {
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 14pt;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 25pt;
+    background-color: black;
+    text-align: center;
+  }
+  
+  
+  h1 {
+    font: 28pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20pt;
+    color: white;
+  }
+
+  h2 {
+    font: 18pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    line-height: 30pt;
+    color: white;
+  }
+  
+  
+  p {
+  }
+
+  span {
+  }
+  
+  img {
+    padding: 3pt;
+    align-items: center;
+  }
+  
+  a {
+    text-decoration: underline;
+  }
+  
+  a:link, a:visited {
+    color: #8094d6;
+  }
+  
+  
+  a:hover, a:active {
+    color: #FF9933;
+  }
+  
+  footer {
+    font-size: 14pt;
+    font-style: italic;
+    line-height: 16pt;
+    text-align: center;
+    padding-top: 30pt;
+  }
